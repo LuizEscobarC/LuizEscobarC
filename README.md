@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/b6a9849b-b778-4e00-8880-7a097c3602f9)<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate frontend developer from India</h3>
 
 
 - 🔭 I’m currently working on **Super Heavy App**
