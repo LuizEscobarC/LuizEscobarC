@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on **Super Heavy App**
 
-- 🌱 I’m currently learning **Devops and software architecture **
+- 🌱 I’m currently learning **Devops and software architecture**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
