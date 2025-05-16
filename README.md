@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Devops and software architecture**
 
-
+```
 
             +------------------------------------------------+
             |             Monolithic architecture            |
@@ -83,7 +83,7 @@
                         | (PostgreSQL)  |               |   (Kafka)     |
                         +---------------+               +---------------+
 
-
+```
 
 
 
