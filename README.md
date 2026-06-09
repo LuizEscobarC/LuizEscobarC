@@ -1,7 +1,7 @@
 <h3 align="center">A passionate Developer from Brazil</h3>
 
 
-- 🔭 I’m currently working on **Super Heavy App** and **Face Before After App**
+- 🔭 I’m currently working on **AI-first by Lampagos** ,**Super Heavy App** and **Face Before After App**
 
 - 🌱 I’m currently learning **Devops and software architecture**
 
