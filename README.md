@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Lampagos** and **Scientific research** about **Harness**.
 
-- 🌱 I’m currently learning **AI Engineering and Harness Engineering**
+- 🌱 I’m currently learning **AI Engineering and Harness Engineering**.
 
 ```
                 .--.
